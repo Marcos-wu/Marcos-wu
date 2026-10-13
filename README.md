@@ -1,11 +1,7 @@
 <div align="center">
 
 <h1>Hi, I'm Marcos 👋</h1>
-<h3>A Gen Z Coder Born in 2006 💻</h3>
-<h3>Bridging LLMs with Modern Web Tech 🚀</h3>
-<h3>AI应用开发者 in training Building with FastAPI + RAG + Agents ! 🎯</h3>
-
-**🚀 ACTIVELY LOOKING FOR A SOFTWARE ENGINEERING / AI INTERNSHIP**
+<h3>A boy with some ideas, a developer who can't code</h3>
 
 [![My Blog](https://img.shields.io/badge/Visit_My_Blog-000000?style=for-the-badge&logo=Vercel&logoColor=white)](https://marcos-blog-project.vercel.app/)
 [![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:marcos34578865434578757@gmail.com)
